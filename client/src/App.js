@@ -4,20 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>This project is under construction</h1>
+      <p>...and the owner of this project is a backend dev</p>
+      <p>that's why there isn't any fancy illustrations.</p>
     </div>
   );
 }
